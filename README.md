@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu-chandanarathne&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-chandanarathne" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/chandanarathne" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chandanarathne?logo=twitter&style=for-the-badge" alt="https://twitter.com/chandanarathne" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chandanarathne" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chandanarathne?logo=twitter&style=for-the-badge" alt="https://twitter.com/chandanarathne" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Vue js,Node**
 
