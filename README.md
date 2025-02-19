@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chandanatharindu1999@gmail.com**
 
-- 📄 Know about my experiences [I worked 6 months in Arthur C. Clarke Institute for Modern Technologies as Trainee. After that I worked 6 months in DigitalBee Labs Company as Trainee.](I worked 6 months in Arthur C. Clarke Institute for Modern Technologies as Trainee. After that I worked 6 months in DigitalBee Labs Company as Trainee.)
+- 📄 Know about my experiences [I worked 6 months in Arthur C. Clarke Institute for Modern Technologies as Trainee. After that I worked 6 months in DigitalBee Labs Company as Trainee.]
 
 - ⚡ Fun fact **I am Funny**
 
